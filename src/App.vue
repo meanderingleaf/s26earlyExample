@@ -10,6 +10,7 @@ onMounted(() => {
 </script>
 
 <template>
+  COOL TEST CHANGE
   <nav>
     <button><RouterLink to="/">Home</RouterLink></button>
     <button><RouterLink to="/about">About</RouterLink></button>
